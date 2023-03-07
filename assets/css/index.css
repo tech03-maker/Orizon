@@ -1,0 +1,265 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* font-family: 'Poppins'; */
+}
+
+.navbar{
+    background-color: #002D2D;
+    color: white;
+    padding-top: 90px;
+    padding-bottom: 60px;
+}
+
+.right{
+    color: white;
+    list-style: none;
+}
+
+.nav-item a{
+    font-size: 20px;
+    /* padding-left: 17px; */
+    margin-left: 10px;
+    color: white;
+    font-weight: 300;
+    width: 80px;
+    text-align: center;
+    background: #5E8E3E;
+}
+
+.logo{
+    height: 30px;
+}
+
+.navbar-brand{
+    padding-left: 7px;
+    margin-top: 5px;
+}
+
+.button{
+    background: #5E8E3E;
+    margin-left: 10px;
+    width: 150px;
+    padding: 10px;
+    font-weight: 300;
+    color: white;
+    border: none;
+    font-size: 20px;
+}
+
+.button:hover{
+    box-shadow: 0px 5px 10px lawngreen;
+}
+
+.div_one{
+    background-color: #002D2D;
+    padding-bottom: 20px;
+}
+
+.sell{
+    padding-top: 150px;
+    color: #5E8E3E;
+    font-size: 20px;
+}
+
+.big h4{
+    font-size: 40px;
+}
+
+.navbar-toggler i{
+    color: #5E8E3E;
+    font-size: 30px;
+}
+
+.build{
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.side{
+    background-color: #5E8E3E;
+    color: white;
+    padding: 10px;
+    border: none;
+    margin-left: 15px;
+    border-radius: 5px;
+}
+
+.try{
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+    padding-top: 10px;
+}
+
+.img{
+    /* height: 450px; */
+    margin-top: 20px;
+    width: 100%;
+    height: 500px;
+    /* margin-left: 20px; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../images/Frame\ 72.png);
+}
+
+.leaf{
+    width: 100%;
+    background-image: url(../images/Rectangle\ 156.png);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 30px;
+}
+
+.shows{
+    padding-top: 140px;
+}
+
+.below{
+    align-items: baseline;
+}
+
+.easy{
+    color: #5E8E3E;
+}
+
+.blue{
+ background: #F3FCF4;
+ /* width: 24%; */
+ /* justify-content: center; */
+ text-align: center;
+}
+.red{
+    background: #F9E8E7;
+ /* width: 24%; */
+ text-align: center;
+}
+.red img{
+    /* height: 400px; */
+    margin-top: 50px;
+    /* margin-left: 50px; */
+}
+
+.light{
+    background: #F3FCF4;
+    padding-top: 5px;
+    /* justify-content: center; */
+    text-align: center;
+}
+
+.hun{
+    color: #008060;
+    font-weight: 700;
+}
+
+.meet{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.pinky{
+    background: #E18D8733;
+}
+
+.oriz{
+    font-weight: 500;
+    color: #5E8E3E;
+    padding-top: 100px;
+}
+
+.get{
+    font-size: 40px;
+}
+
+.blog{
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+.girl{
+    background-image: url(../images/Frame\ 72-2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.grow{
+    font-weight: bold;
+    padding-top: 100px;
+}
+
+.trial{
+    background: #5E8E3E;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.white{
+    padding-bottom: 210px;
+}
+
+.green{
+    background-color: #008060;
+    padding: 5px;
+    border-bottom: 1px solid #5E8E3E;
+}
+
+.green ul{
+    list-style: none;
+    display: flex;
+    margin-top: 20px;
+}
+
+.green ul li a{
+    margin-left: 30px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    font-size: 13px;
+}
+
+footer{
+    background-color: #008060;
+    color: white;
+}
+
+.head p{
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.navbar-nav i{
+    background-color: #D9D9D9;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 100%;
+    text-align: center;
+    /* padding-top: 5px; */
+    color: black;
+}
+
+.ul2 li a{
+    color: white;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.footer_bottom {
+    background: #008060;
+    padding: 15px 0;
+}
+
+.footer_bottom p.crp {
+    float: left;
+    margin: 0;
+    color: #fff;
+    font-size: 12px;
+    width: 100%;
+    text-align: center;
+}
